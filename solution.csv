@@ -1,0 +1,9 @@
+10,"{""_id"":""Swimming"",""count"":765}{""_id"":""Athletics"",""count"":753}{""_id"":""Rowing"",""count"":576}{""_id"":""Football"",""count"":407}{""_id"":""Hockey"",""count"":388}"
+9,"{""_id"":""UnitedStates"",""count"":267}{""_id"":""Australia"",""count"":163}{""_id"":""Netherlands"",""count"":46}{""_id"":""Japan"",""count"":43}{""_id"":""France"",""count"":39}"
+1,"{""TotalMedals"":130}"
+5,"{""_id"":""UnitedStates"",""count"":1312}{""_id"":""Russia"",""count"":768}{""_id"":""Germany"",""count"":629}{""_id"":""Australia"",""count"":609}{""_id"":""China"",""count"":530}{""_id"":""Canada"",""count"":370}{""_id"":""Italy"",""count"":331}{""_id"":""GreatBritain"",""count"":322}{""_id"":""Netherlands"",""count"":318}{""_id"":""France"",""count"":318}"
+8,"{""_id"":""Boxing""}{""_id"":""Badminton""}{""_id"":""Shooting""}{""_id"":""Wrestling""}"
+2,"{""teen_athletes"":505}"
+6,"{""Athlete"":""JessSchipper"",""Age"":21,""GoldMedals"":1,""SilverMedals"":0,""TotalMedals"":3}"
+4,"{""Athlete"":""PeterThomsen""}"
+7,UnitedStates
